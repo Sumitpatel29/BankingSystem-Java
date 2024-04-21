@@ -62,5 +62,11 @@ The project provides a user-friendly interface for customers to interact with th
 
 ## Screenshots
 
+![Screenshot 2024-04-21 134311](https://github.com/Sumitpatel29/BankingSystem-Java/assets/62977218/79444c3f-b7df-4887-b963-222689bc8277)
+
+//-----------------------------------------------------------------------//
+
+![Screenshot 2024-04-21 134414](https://github.com/Sumitpatel29/BankingSystem-Java/assets/62977218/392857bc-c797-4ee1-931a-cfbef8dd10b5)
+
 
 
