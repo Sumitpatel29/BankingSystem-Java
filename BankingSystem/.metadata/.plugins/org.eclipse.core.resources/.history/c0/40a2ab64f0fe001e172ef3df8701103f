@@ -1,0 +1,8 @@
+package banking;
+
+public class connection
+{
+	// register jdbc Driver 
+//	String mysqlJDBCDriver = "com.mysql.cj.jdbc.Driver";
+	Class.forName("mysql.jdbc.Driver");
+}
